@@ -11,6 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+        <iframe src="http://maxwood.info" height="200">
+            Alternative text for browsers that do not understand IFrames.
+        </iframe>
+
 # Header 1
 ## Header 2
 ### Header 3
